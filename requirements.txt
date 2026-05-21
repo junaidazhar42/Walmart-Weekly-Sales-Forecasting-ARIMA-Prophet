@@ -1,0 +1,19 @@
+# Walmart Weekly Sales Forecasting — Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data manipulation
+pandas==3.0.2
+numpy==2.4.4
+
+# Visualisation
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Statistical modelling (AR, MA, ARIMA, SARIMA)
+statsmodels==0.14.6
+
+# Evaluation metrics
+scikit-learn==1.8.0
+
+# Facebook Prophet
+prophet==1.3.0
